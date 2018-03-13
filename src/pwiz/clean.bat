@@ -1,6 +1,5 @@
-@echo off
+
 setlocal
-@echo off
 
 set VERBOSE=1
 if /I "%1"=="-quiet" set VERBOSE=0
